@@ -15,3 +15,10 @@ Gruvbox Theme:
       primary-text-color: "#fbf1c7"                                             # fg0
       secondary-text-color: "#ebdbb2"                                           # fg
       sidebar-selected-icon-color: "#928374"                                    # gray 
+
+
+
+  # Blur
+  dialog-backdrop-filter: blur(5px)
+  iron-overlay-backdrop-opacity: 1
+  iron-overlay-backdrop-background-color: rgba(0, 0, 0, 0.32)
